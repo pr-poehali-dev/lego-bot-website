@@ -203,6 +203,41 @@ const Index = () => {
         </div>
       </section>
 
+      <section className="py-16 px-4 bg-white/70 border-y border-primary/10">
+        <div className="container mx-auto">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+            <div className="text-center">
+              <div className="w-20 h-20 mx-auto mb-4 bg-primary/10 rounded-2xl flex items-center justify-center">
+                <Icon name="Briefcase" className="text-primary" size={32} />
+              </div>
+              <div className="text-4xl md:text-5xl font-bold text-primary mb-2">50+</div>
+              <p className="text-muted-foreground font-medium">Проектов</p>
+            </div>
+            <div className="text-center">
+              <div className="w-20 h-20 mx-auto mb-4 bg-primary/10 rounded-2xl flex items-center justify-center">
+                <Icon name="Users" className="text-primary" size={32} />
+              </div>
+              <div className="text-4xl md:text-5xl font-bold text-primary mb-2">35+</div>
+              <p className="text-muted-foreground font-medium">Клиентов</p>
+            </div>
+            <div className="text-center">
+              <div className="w-20 h-20 mx-auto mb-4 bg-primary/10 rounded-2xl flex items-center justify-center">
+                <Icon name="Calendar" className="text-primary" size={32} />
+              </div>
+              <div className="text-4xl md:text-5xl font-bold text-primary mb-2">5+</div>
+              <p className="text-muted-foreground font-medium">Лет опыта</p>
+            </div>
+            <div className="text-center">
+              <div className="w-20 h-20 mx-auto mb-4 bg-primary/10 rounded-2xl flex items-center justify-center">
+                <Icon name="Award" className="text-primary" size={32} />
+              </div>
+              <div className="text-4xl md:text-5xl font-bold text-primary mb-2">98%</div>
+              <p className="text-muted-foreground font-medium">Довольных клиентов</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section id="услуги" className="py-20 px-4 bg-white/50">
         <div className="container mx-auto">
           <h2 className="text-4xl md:text-5xl font-bold text-center mb-4">
