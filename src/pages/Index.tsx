@@ -189,7 +189,7 @@ const Index = () => {
               className="bg-primary hover:bg-primary/90 text-white shadow-2xl hover:shadow-primary/50 transition-all transform hover:scale-105 rounded-xl px-8 py-6 text-lg"
             >
               <Icon name="Rocket" className="mr-2" size={20} />
-              Начать проект
+              Заказать чат-бота
             </Button>
             <Button
               size="lg"
