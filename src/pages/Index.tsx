@@ -209,7 +209,7 @@ const Index = () => {
             <span className="text-primary">ТОП-3</span> услуги
           </h2>
           <p className="text-center text-muted-foreground mb-12 text-lg">
-            Собираем решение под ваши задачи
+            Подбираем решение под задачи вашего бизнеса
           </p>
           <div className="grid md:grid-cols-3 gap-8">
             {services.map((service, idx) => (
