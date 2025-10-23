@@ -181,7 +181,7 @@ const Index = () => {
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto">
             Разрабатываем чат-ботов и продвигаем в соцсетях.
             <br />
-            Каждый блок работает на результат
+            Каждый бот работает на результат
           </p>
           <div className="flex gap-4 justify-center flex-wrap">
             <Button
