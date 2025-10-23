@@ -229,10 +229,10 @@ const Index = () => {
             </div>
             <div className="text-center">
               <div className="w-20 h-20 mx-auto mb-4 bg-primary/10 rounded-2xl flex items-center justify-center">
-                <Icon name="Award" className="text-primary" size={32} />
+                <Icon name="ShieldCheck" className="text-primary" size={32} />
               </div>
-              <div className="text-4xl md:text-5xl font-bold text-primary mb-2">98%</div>
-              <p className="text-muted-foreground font-medium">Довольных клиентов</p>
+              <div className="text-3xl md:text-4xl font-bold text-primary mb-2">Гарантии</div>
+              <p className="text-muted-foreground font-medium">Ваши довольные клиенты</p>
             </div>
           </div>
         </div>
