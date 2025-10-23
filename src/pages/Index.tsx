@@ -206,7 +206,7 @@ const Index = () => {
       <section id="услуги" className="py-20 px-4 bg-white/50">
         <div className="container mx-auto">
           <h2 className="text-4xl md:text-5xl font-bold text-center mb-4">
-            Наши <span className="text-primary">блоки услуг</span>
+            <span className="text-primary">ТОП-3</span> услуги
           </h2>
           <p className="text-center text-muted-foreground mb-12 text-lg">
             Собираем решение под ваши задачи
