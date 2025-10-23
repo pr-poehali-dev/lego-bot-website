@@ -215,10 +215,10 @@ const Index = () => {
             </div>
             <div className="text-center">
               <div className="w-20 h-20 mx-auto mb-4 bg-primary/10 rounded-2xl flex items-center justify-center">
-                <Icon name="Users" className="text-primary" size={32} />
+                <Icon name="Headset" className="text-primary" size={32} />
               </div>
-              <div className="text-4xl md:text-5xl font-bold text-primary mb-2">35+</div>
-              <p className="text-muted-foreground font-medium">Клиентов</p>
+              <div className="text-4xl md:text-5xl font-bold text-primary mb-2">∞</div>
+              <p className="text-muted-foreground font-medium">Бессрочная поддержка</p>
             </div>
             <div className="text-center">
               <div className="w-20 h-20 mx-auto mb-4 bg-primary/10 rounded-2xl flex items-center justify-center">
