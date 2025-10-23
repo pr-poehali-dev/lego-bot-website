@@ -135,7 +135,7 @@ const Index = () => {
                 <Icon name="Box" className="text-white" size={24} />
               </div>
               <span className="text-2xl font-bold text-foreground">
-                IT КОМНHБДА
+                Гигабайты Чат-ботов
               </span>
             </div>
             <div className="hidden md:flex gap-6">
@@ -493,7 +493,7 @@ const Index = () => {
             <div className="w-12 h-12 bg-primary rounded-lg flex items-center justify-center shadow-lg">
               <Icon name="Box" className="text-white" size={24} />
             </div>
-            <span className="text-2xl font-bold">IT КОМНHБДА</span>
+            <span className="text-2xl font-bold">Гигабайты Чат-ботов</span>
           </div>
           <p className="text-white/70 mb-6">
             Чат-боты и продвижение в соцсетях
