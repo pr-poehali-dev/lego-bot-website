@@ -211,7 +211,7 @@ const Index = () => {
                 <Icon name="Briefcase" className="text-primary" size={32} />
               </div>
               <div className="text-4xl md:text-5xl font-bold text-primary mb-2">50+</div>
-              <p className="text-muted-foreground font-medium">Проектов</p>
+              <p className="text-muted-foreground font-medium">Ниш</p>
             </div>
             <div className="text-center">
               <div className="w-20 h-20 mx-auto mb-4 bg-primary/10 rounded-2xl flex items-center justify-center">
