@@ -126,7 +126,7 @@ const Index = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-white via-green-50 to-amber-50">
+    <div className="min-h-screen bg-gradient-to-br from-white via-cyan-50 to-stone-100">
       <nav className="fixed top-0 left-0 right-0 z-50 bg-white/80 backdrop-blur-md border-b border-secondary/30">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
