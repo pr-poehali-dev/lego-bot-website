@@ -157,6 +157,11 @@ const Index = () => {
 
       <section className="pt-32 pb-20 px-4">
         <div className="container mx-auto text-center">
+          <div className="mb-6">
+            <Badge className="bg-primary/10 text-primary hover:bg-primary/20 border-primary/20 px-4 py-2 text-sm font-semibold">
+              IT Команда
+            </Badge>
+          </div>
           <div className="mb-8 flex justify-center gap-2">
             <div className="w-16 h-16 bg-primary rounded-xl shadow-2xl transform rotate-6 flex items-center justify-center">
               <Icon name="Blocks" className="text-white" size={32} />
